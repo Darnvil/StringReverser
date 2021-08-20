@@ -1,0 +1,16 @@
+Z:\gitProj\StringReverser\bin\Debug\net5.0\Solbeg.exe
+Z:\gitProj\StringReverser\bin\Debug\net5.0\Solbeg.deps.json
+Z:\gitProj\StringReverser\bin\Debug\net5.0\Solbeg.runtimeconfig.json
+Z:\gitProj\StringReverser\bin\Debug\net5.0\Solbeg.runtimeconfig.dev.json
+Z:\gitProj\StringReverser\bin\Debug\net5.0\Solbeg.dll
+Z:\gitProj\StringReverser\bin\Debug\net5.0\ref\Solbeg.dll
+Z:\gitProj\StringReverser\bin\Debug\net5.0\Solbeg.pdb
+Z:\gitProj\StringReverser\obj\Debug\net5.0\Solbeg.csprojAssemblyReference.cache
+Z:\gitProj\StringReverser\obj\Debug\net5.0\Solbeg.GeneratedMSBuildEditorConfig.editorconfig
+Z:\gitProj\StringReverser\obj\Debug\net5.0\Solbeg.AssemblyInfoInputs.cache
+Z:\gitProj\StringReverser\obj\Debug\net5.0\Solbeg.AssemblyInfo.cs
+Z:\gitProj\StringReverser\obj\Debug\net5.0\Solbeg.csproj.CoreCompileInputs.cache
+Z:\gitProj\StringReverser\obj\Debug\net5.0\Solbeg.dll
+Z:\gitProj\StringReverser\obj\Debug\net5.0\ref\Solbeg.dll
+Z:\gitProj\StringReverser\obj\Debug\net5.0\Solbeg.pdb
+Z:\gitProj\StringReverser\obj\Debug\net5.0\Solbeg.genruntimeconfig.cache
